@@ -69,19 +69,6 @@ El script:
 - Asegúrate de no sobrecargar el servidor con demasiadas solicitudes en un corto período de tiempo.
 - Considera modificar el código para añadir retrasos (`time.sleep()`) y evitar posibles problemas con el sitio web.
 
-## Archivos
-
-- **scraper.py**: Script principal para extraer datos del sitio web de contratación pública.
-- **requirements.txt**: Lista de dependencias para instalar antes de ejecutar el script.
-- **all_deeplink_urls.txt**: Archivo de salida que contiene todos los URLs recopilados.
-
-## Estructura del Proyecto
-
-```
-|-- scraper.py
-|-- requirements.txt
-|-- all_deeplink_urls.txt
-```
 
 ## Licencia
 
